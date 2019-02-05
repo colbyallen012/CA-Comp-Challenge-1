@@ -9,6 +9,8 @@ Comp
 
 My Desktop
 
+<img width="725" alt="screen shot 2019-02-05 at 9 33 48 am" src="https://user-images.githubusercontent.com/43159025/52288814-22292d80-292a-11e9-9803-1ff04f84638f.png">
+
 My Tablet
 
 My Mobile
